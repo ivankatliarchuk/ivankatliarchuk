@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm [Ivan][website]
 
-<p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy.gif" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="30">
+<p>
+<em>Student at  <a href="https://www.open.ac.uk">Open University</a>
+</br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a>
 </em></p>
 
 ### Connect with me:
