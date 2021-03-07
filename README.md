@@ -8,8 +8,7 @@
 
 **Recent Posts:**
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
-[![Ivan Medium](https://github-readme-medium.vercel.app/?username=ivan.katliarchuk)](https://medium.com/@ivan.katliarchuk)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/0" alt="Recent Article 0">
 
 **Languages and Tools I Use:**
 
