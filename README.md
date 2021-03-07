@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-<p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://giphy.com/gifs/microsoftedu-7JEPMRdfPLfq1sjZUJ" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A" width="30">
+<p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy.gif" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)](https://www.linkedin.com/in/ivankatliarchuk/)
