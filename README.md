@@ -8,6 +8,7 @@
 
 **Recent Posts:**
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
 [![Ivan Medium](https://github-readme-medium.vercel.app/?username=ivan.katliarchuk)](https://medium.com/@ivan.katliarchuk)
 
 **Languages and Tools I Use:**
