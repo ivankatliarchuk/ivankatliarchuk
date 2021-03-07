@@ -5,9 +5,9 @@
 
 ### Connect with me:
 
-[![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)](https://www.linkedin.com/in/ivankatliarchuk/)
+[![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
 [<img align="left" alt="ivankatliarchuk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)](https://github.com/ivankatliarchuk)
+[![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)][github]
 
 **Recent Posts:**
 
@@ -87,5 +87,6 @@ Here are some ideas to get you started:
 -->
 
 [website]: http://ivankaliarchuk.github.io/
-[medium]: https://medium.com/@ivan.katliachuk/
+[medium]: https://medium.com/@ivan.katliarchuk/
 [linkedin]: https://www.linkedin.com/in/ivankatliarchuk/
+[github]: https://github.com/ivankatliarchuk
