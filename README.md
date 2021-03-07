@@ -6,7 +6,7 @@
 ### Connect with me:
 
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
-[<img align="left" alt="ivankatliarchuk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ivankatliarchuk | Medium" src="https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Medium&logoColor=white" />][medium]
 [![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)][github]
 
 **Recent Posts:**
