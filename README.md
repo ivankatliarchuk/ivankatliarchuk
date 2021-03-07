@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ivan
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Ivan is here
 
 <a href="https://www.linkedin.com/in/ivankatliarchuk/">
   <img align="left" alt="Ivans's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,21 +17,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**My Github Stats:**
+
+![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliachuk)
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Markdown     1 hr 16 mins    █████████▒░░░░░░░░░░░░░░░   36.97 %
-JSON         1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-JavaScript   50 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-C++          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-```
 
- **My Github Stats:**
-
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&show_icons=true">](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&show_icons=true&theme=solarized-light)
-
-[<img align="right" width="50%" height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact)
+[![ivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivankatliarchuk)](https://github-readme-stats.vercel.app/api/wakatime?username=ivankatliarchuk)
 
 **My Github Metrics:**
 
