@@ -13,6 +13,7 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg"></code>
 <!--  languages -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
@@ -21,6 +22,10 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!--  ci systems -->
+<code></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg"></code>
 <!-- frameworks  -->
 <code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -28,6 +33,7 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <!-- infrastructure -->
 <code></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"/></code>
