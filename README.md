@@ -1,9 +1,14 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ivan!
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-<a href="https://www.linkedin.com/in/ivankatliarchuk/">
- Profiles:  <img alt="linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://giphy.com/gifs/microsoftedu-7JEPMRdfPLfq1sjZUJ" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A" width="30">
+</em></p>
+
+[![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)](https://www.linkedin.com/in/ivankatliarchuk/)
+[![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)](https://github.com/ivankatliarchuk)
+
 
 **Languages and Tools I Use:**
 
