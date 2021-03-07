@@ -13,7 +13,7 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"/></code>
+<code><img width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg"></code>
 <!--  languages -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
