@@ -6,6 +6,9 @@
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)](https://www.linkedin.com/in/ivankatliarchuk/)
 [![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)](https://github.com/ivankatliarchuk)
 
+**Recent Posts:**
+
+[![Ivan Medium](https://github-readme-medium.vercel.app/?username=ivan.katliarchuk)](https://medium.com/@ivan.katliarchuk)
 
 **Languages and Tools I Use:**
 
@@ -46,9 +49,6 @@
 <code><img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
 <!--  -->
 <code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<h2>✒️ Recent Posts</h2>
-
 
 **My Github Stats:**
 
