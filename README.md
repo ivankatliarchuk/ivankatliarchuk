@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ivan!
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-
 <p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy.gif" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="30">
 </em></p>
 
@@ -12,7 +9,7 @@
 
 **Languages and Tools I Use:**
 
-<code><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img alt="go" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <!--  languages -->
 <code><img alt="go" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
