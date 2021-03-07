@@ -1,9 +1,12 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ivan!
+### Hi there 👋, I'm [Ivan][website]
 
 <p><em>Student at  <a href="https://www.open.ac.uk">Open University</a><img src="https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy.gif" width="30"></br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a><img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="30">
 </em></p>
 
+### Connect with me:
+
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)](https://www.linkedin.com/in/ivankatliarchuk/)
+[<img align="left" alt="ivankatliarchuk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)](https://github.com/ivankatliarchuk)
 
 **Recent Posts:**
@@ -52,9 +55,9 @@
 
 **My Github Stats:**
 
-![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats)
+![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliachuk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliachuk)
 
 📊 **This Week I Spent My Time On:**
 
@@ -82,3 +85,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: http://ivankaliarchuk.github.io/
+[medium]: https://medium.com/@ivan.katliachuk/
+[linkedin]: https://www.linkedin.com/in/ivankatliarchuk/
