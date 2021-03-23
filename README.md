@@ -61,14 +61,13 @@
 <!--  -->
 <code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**My Github Stats:**
+<a href="https://ivankatliarchuk.github.io/">
+My Github Stats:
+</a>
 
-<a href="https://ivankatliarchuk.github.io/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats&hide_border=true" />
-</a>
-<a href="https://ivankatliarchuk.github.io/">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact&hide_border=true&langs_count=10" />
-</a>
+![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliachuk)
 
 📊 **This Week I Spent My Time On:**
 
