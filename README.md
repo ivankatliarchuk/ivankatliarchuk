@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: http://ivankaliarchuk.github.io/
-[medium]: https://medium.com/@ivan.katliarchuk/
-[linkedin]: https://www.linkedin.com/in/ivankatliarchuk/
+[website]: https://ivankatliarchuk.github.io
+[medium]: https://medium.com/@ivan.katliarchuk
+[linkedin]: https://www.linkedin.com/in/ivankatliarchuk
 [github]: https://github.com/ivankatliarchuk
