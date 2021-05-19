@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
 
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
 
@@ -53,4 +53,3 @@ jobs:
           plugin_notable: yes
           plugin_projects: yes
           plugin_projects_limit: 4
-          
