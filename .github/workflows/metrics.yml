@@ -4,11 +4,33 @@ on:
     - cron: "0 18 * * *"
   push: {branches: ["master", "main"]}
   workflow_dispatch:
-
+# https://github.com/search?o=desc&q=lowlighter%2Fmetrics+path%3A.github%2Fworkflows+language%3AYAML&s=&type=Code
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📰 Activity plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, star
+          plugins_errors_fatal: ${{ github.repository == 'ivankatlirchuk/ivankatliarchuk' }}
+          config_padding: 7%, 20%
+
       - uses: lowlighter/metrics@latest
         with:
 
