@@ -44,7 +44,6 @@ jobs:
           committer_branch: metrics
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }
 
       - name: 🈷️ Languages plugin (detailed)
         uses: lowlighter/metrics@master
