@@ -1,10 +1,12 @@
+# usages: https://github.com/search?o=desc&q=lowlighter%2Fmetrics+path%3A.github%2Fworkflows+language%3AYAML&s=&type=Code
+# example: https://github.com/afrizaloky/afrizaloky/blob/70044b44fff97784144dacc4e80f7b08328c701c/.github/workflows/main.yml
 name: metrics
 on:
   schedule:
     - cron: "0 18 * * *"
   push: {branches: ["master", "main"]}
   workflow_dispatch:
-# https://github.com/search?o=desc&q=lowlighter%2Fmetrics+path%3A.github%2Fworkflows+language%3AYAML&s=&type=Code
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,6 +22,7 @@ jobs:
 
       - name: 📰 Activity plugin
         uses: lowlighter/metrics@master
+        if: always()
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -29,10 +32,33 @@ jobs:
           plugin_activity_limit: 7
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, star
-          plugins_errors_fatal: ${{ github.repository == 'ivankatlirchuk/ivankatliarchuk' }}
           config_padding: 7%, 20%
 
+      - name: 📅 Isocalendar plugin (full year)
+        uses: lowlighter/metrics@master
+        if: always()
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }
+
+      - name: 🈷️ Languages plugin (detailed)
+        uses: lowlighter/metrics@master
+        if: always()
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          plugin_languages: yes
+
+      # full
       - uses: lowlighter/metrics@latest
+        if: always()
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
