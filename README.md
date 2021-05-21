@@ -62,20 +62,8 @@
 <code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://ivankatliarchuk.github.io/">
-My Github Stats:
-</a>
 
-![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankatliarchuk&count_private=true&show_icons=true&include_all_commits=true&custom_title=stats&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliarchuk&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankatliachuk)
-
-📊 **This Week I Spent My Time On:**
-
-[![ivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivankatliarchuk)](https://github-readme-stats.vercel.app/api/wakatime?username=ivankatliarchuk)
-
-**My Github Metrics:**
-
-![Metrics](https://metrics.lecoq.io/ivankatliarchuk?template=classic&repositories=500&base.header=0&activity=1&stars=1&followup=1&gists=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&stars.limit=4&config.timezone=Europe%2FLondon)
+![Metrics](https://github.com/ivankatliarchuk/ivankatliarchuk/blob/metrics/github-metrics.svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ivankatliarchuk.ivankatliarchuk)
 
