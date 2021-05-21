@@ -61,8 +61,6 @@
 <!--  -->
 <code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<a href="https://ivankatliarchuk.github.io/">
-
 ![Metrics](https://github.com/ivankatliarchuk/ivankatliarchuk/blob/metrics/github-metrics.svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ivankatliarchuk.ivankatliarchuk)
