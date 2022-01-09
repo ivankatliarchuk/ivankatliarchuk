@@ -2,7 +2,7 @@
 
 <p>
 <em>Student at  <a href="https://www.open.ac.uk">Open University</a>
-</br>Technical Consultant at <a href="https://www.nearform.com">Nearform</a>
+</br>Engineering Manager at <a href="https://www.hollandandbarrettcorporate.com/">Holland & Barrett</a>
 </em></p>
 
 ### Connect with me:
