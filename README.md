@@ -3,13 +3,25 @@
 <p>
 <em>Student at  <a href="https://www.open.ac.uk">Open University</a>
 </br>Engineering Manager at <a href="https://www.hollandandbarrettcorporate.com/">Holland & Barrett.</a> Platforms, SREs and DevSecOps
-</em></p>
+</em>
+</br>
+<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
+</p>
 
 ### Connect with me:
 
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label&color=green)][medium]
 [![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)][github]
+
+**How I do Pull Request Reviews**
+- Code Quality: Ensuring the code is clean, efficient, and follows project standards.
+- Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
+- Good Test Coverage: Adding or updating tests is key to keeping the codebase stable and future-proof.
+
+If you not agree, someone else could approve your code.
+
+[Styleguide](https://google.github.io/styleguide/go/) that I use for Go projects
 
 **Recent Posts:**
 
