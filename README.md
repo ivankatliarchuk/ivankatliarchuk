@@ -4,8 +4,6 @@
 <em>Student at  <a href="https://www.open.ac.uk">Open University</a>
 </br>Engineering Manager at <a href="https://www.hollandandbarrettcorporate.com/">Holland & Barrett.</a> Platforms, SREs and DevSecOps
 </em>
-</br>
-<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
 </p>
 
 ### Connect with me:
@@ -16,7 +14,7 @@
 
 **How I do Pull Request Reviews**
 - Code Quality: Ensuring the code is clean, efficient, and follows project standards.
-- Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
+- Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests and etc. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
 - Good Test Coverage: Adding or updating tests is key to keeping the codebase stable and future-proof.
 
 If you not agree, someone else could approve your code.
@@ -34,6 +32,8 @@ If you not agree, someone else could approve your code.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3" alt="Recent Article 3">
 
 **Languages and Tools I Use:**
+
+<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
 
 <!--  platforms -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
