@@ -19,7 +19,7 @@
 
 If you not agree, someone else could approve your code.
 
-[Styleguide](https://google.github.io/styleguide/go/) that I use for Go projects
+[Styleguide](https://google.github.io/styleguide/go/) and [effective-go](https://go.dev/doc/effective_go) that I use for Go projects
 
 **Recent Posts:**
 
