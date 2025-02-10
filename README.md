@@ -2,7 +2,7 @@
 
 <p>
 <em>Student at  <a href="https://www.open.ac.uk">Open University</a>
-</br>Engineering Manager at <a href="https://www.hollandandbarrettcorporate.com/">Holland & Barrett.</a> Platforms, SREs and DevSecOps
+</br>Platforms, SREs and DevSecOps and Software Engineer
 </em>
 </p>
 
