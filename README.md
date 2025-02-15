@@ -20,6 +20,7 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 
 - My first coding achievement
   * 1990, OMK Software, Buran game for DOS operating system. Reverse engineer code from cassette tape to a paper.
+- 1995 tried MS Windows 95
 
 ---
 
@@ -37,7 +38,7 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 
 - System security audits
 - Defined custom system security controls and where possible automated them with Policies as Code
-- Supply chain security (SLSA, NIST, DCPP, ....)
+- Supply chain security (SLSA, NIST, ....)
 
 ---
 
