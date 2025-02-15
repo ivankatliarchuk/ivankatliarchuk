@@ -1,9 +1,6 @@
 ### Hi there 👋, [Ivan][website] is here
 
 <p>
-<em>My most recent degree is in Computer Science, following prior academic work in Radiophysics, Optics, and Mathematics.</a>
-</br>
-
 My primary interests lie in platform engineering, SRE, SecDevOps, and software engineering.
 </em>
 </p>
