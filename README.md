@@ -20,7 +20,7 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 
 - My first coding achievement
   * 1990, OMK Software, Buran game for DOS operating system. Reverse engineer code from cassette tape to a paper.
-- 1995 tried MS Windows 95
+- 1995 tried Windows 95
 
 ---
 
