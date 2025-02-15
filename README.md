@@ -2,7 +2,9 @@
 
 <p>
 <em>My most recent degree is in Computer Science, following prior academic work in Radiophysics, Optics, and Mathematics.</a>
-</br>Platforms, SREs and SecDevOps and Software Engineer
+</br>
+
+My primary interests lie in platform engineering, SRE, SecDevOps, and software engineering.
 </em>
 </p>
 
