@@ -16,6 +16,13 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 
 ---
 
+### **Fun Facts**
+
+- My first coding achievement
+  * 1990, OMK Software, Buran game for DOS platform. Reverse engineer code from cassette tape to a paper.
+
+---
+
 ### **Platform Engineering & SRE Milestones**
 
 - **2011** – Early adoption of Pivotal Cloud Foundry (PCF) & BOSH for cloud-native platforms for on-prem and early days hyperscalers.
