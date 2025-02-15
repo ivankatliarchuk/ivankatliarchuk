@@ -1,8 +1,8 @@
 ### Hi there 👋, [Ivan][website] is here
 
 <p>
-<em>Student at  <a href="https://www.open.ac.uk">Open University</a>
-</br>Platforms, SREs and DevSecOps and Software Engineer
+<em>My most recent degree is in Computer Science, following prior academic work in Radiophysics, Optics, and Mathematics.</a>
+</br>Platforms, SREs and SecDevOps and Software Engineer
 </em>
 </p>
 
@@ -11,6 +11,26 @@
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label&color=green)][medium]
 [![GitHub Ivan](https://img.shields.io/github/followers/ivankatliarchuk?label=follow&style=social)][github]
+
+---
+
+### **Platform Engineering & SRE Milestones**
+
+- **2011** – Early adoption of Pivotal Cloud Foundry (PCF) & BOSH for cloud-native platforms for on-prem and early days hyperscalers.
+- **2015** – Led the first production proof-of-concept (PoC) comparing Kubernetes and Pivotal Platform.
+- **2018** – Scaled to **1,000+ applications** running across multiple Kubernetes clusters.
+- **2020** – Established platforms supporting **1,000+ customers**, managing multiple Kubernetes environments.
+- **2023** – Empowered **thousands of customers** to create on-demand Kubernetes clusters **as effortlessly as deploying an application**.
+
+---
+
+### **SecDevOps work**
+
+- System security audits
+- Defined custom system security controls and where possible automated them with Policies as Code
+- Supply chain security (SLSA, NIST, DCPP, ....)
+
+---
 
 **How I do Pull Request Reviews**
 - Code Quality: Ensuring the code is clean, efficient, and follows project standards.
