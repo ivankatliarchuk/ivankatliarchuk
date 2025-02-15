@@ -19,7 +19,7 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 ### **Fun Facts**
 
 - My first coding achievement
-  * 1990, OMK Software, Buran game for DOS platform. Reverse engineer code from cassette tape to a paper.
+  * 1990, OMK Software, Buran game for DOS operating system. Reverse engineer code from cassette tape to a paper.
 
 ---
 
