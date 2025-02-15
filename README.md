@@ -19,7 +19,7 @@
 - **2011** – Early adoption of Pivotal Cloud Foundry (PCF) & BOSH for cloud-native platforms for on-prem and early days hyperscalers.
 - **2015** – Led the first production proof-of-concept (PoC) comparing Kubernetes and Pivotal Platform.
 - **2018** – Scaled to **1,000+ applications** running across multiple Kubernetes clusters.
-- **2020** – Established platforms supporting **1,000+ customers**, managing multiple Kubernetes environments.
+- **2020** – Established platforms supporting **1,000+ customers**, managing multi tenant environments.
 - **2023** – Empowered **thousands of customers** to create on-demand Kubernetes clusters **as effortlessly as deploying an application**.
 
 ---
