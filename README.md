@@ -48,6 +48,8 @@ If you not agree, someone else could approve your code.
 
 [Styleguide](https://google.github.io/styleguide/go/) and [effective-go](https://go.dev/doc/effective_go) that I use for Go projects
 
+[PR strategies I usually follow](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
+
 **Recent Posts:**
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/0" alt="Recent Article 0">
