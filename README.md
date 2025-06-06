@@ -6,6 +6,7 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 </p>
 
 <em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
+
 <em><a href="https://github.com/kubernetes-sigs/external-dns">external-dns maintainer</a>
 
 ### Connect with me:
