@@ -5,6 +5,9 @@ My primary interests lie in platform engineering, SRE, SecDevOps, and software e
 </em>
 </p>
 
+<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
+<em><a href="https://github.com/kubernetes-sigs/external-dns">external-dns maintainer</a>
+
 ### Connect with me:
 
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
@@ -61,8 +64,6 @@ If you not agree, someone else could approve your code.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3" alt="Recent Article 3">
 
 **Languages and Tools I Use:**
-
-<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
 
 <!--  platforms -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
