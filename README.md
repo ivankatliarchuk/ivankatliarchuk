@@ -1,7 +1,7 @@
 ### Hi there 👋, [Ivan][website] is here
 
 <p>
-My primary interests lie in platform engineering, SRE, SecDevOps, and software engineering.
+My primary interests lie in Software Engineering as well as SRE, SecDevOps and Developer Experience.
 </em>
 </p>
 
