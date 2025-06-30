@@ -5,6 +5,8 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and D
 </em>
 </p>
 
+> I'm open to a new gigs
+
 <em><a href="https://github.com/kubernetes">kubernets member</a>
 
 <em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
