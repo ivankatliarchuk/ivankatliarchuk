@@ -11,8 +11,6 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 
 <em><a href="https://github.com/kubernetes-sigs/external-dns">external-dns maintainer</a>
 
-> Open for new gigs
-
 ### Connect with me:
 
 [![Linkedin: ivankatliarchuk](https://img.shields.io/badge/-ivankatliarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivankatliarchuk/)][linkedin]
