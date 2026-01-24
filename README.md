@@ -46,6 +46,7 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 ---
 
 **How I do Pull Request Reviews**
+- If you tag me on pull request - you get banned for month. Tag me twice - permanent ban.
 - Code Quality: Ensuring the code is clean, efficient, and follows project standards.
 - Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests and etc. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
 - Good Test Coverage: Adding or updating tests is key to keeping the codebase stable and future-proof.
@@ -67,44 +68,6 @@ If you not agree, someone else could approve your code.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ivan.katliarchuk/3" alt="Recent Article 3">
 
 **Languages and Tools I Use:**
-
-<!--  platforms -->
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg"></code>
-<!--  languages -->
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!--  ci systems -->
-<code></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg"></code>
-<!-- frameworks  -->
-<code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<!-- infrastructure -->
-<code></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"/></code>
-
-<!--  databases -->
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
-<!--  -->
-<code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Metrics](https://github.com/ivankatliarchuk/ivankatliarchuk/blob/metrics/github-metrics.svg)
 
