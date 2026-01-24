@@ -46,7 +46,7 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 ---
 
 **How I do Pull Request Reviews**
-- If you tag me on pull request - you get banned for month. Tag me twice - permanent ban. This ban is automated.
+- If you tag me on pull request - you get banned for month. Tag me twice - permanent ban. This process is automated.
 - Code Quality: Ensuring the code is clean, efficient, and follows project standards.
 - Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests and etc. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
 - Good Test Coverage: Adding or updating tests is key to keeping the codebase stable and future-proof.
