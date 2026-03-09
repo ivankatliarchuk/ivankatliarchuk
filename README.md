@@ -21,7 +21,6 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 
 ### **Fun Facts**
 
-- Submit to compiler first line of code in '86-87 but not too sure
 - My first coding achievement
   * 1990, OMK Software, Buran game for DOS operating system. Reverse engineer code from cassette tape to a paper.
 - 1995 tried Windows 95
