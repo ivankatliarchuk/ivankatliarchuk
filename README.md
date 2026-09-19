@@ -47,9 +47,10 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 
 **How I do Pull Request Reviews**
 - If you tag me on pull request - you get banned for month. Tag me twice - permanent ban. This process is automated.
-- Code Quality: Ensuring the code is clean, efficient, and follows project standards.
-- Simplicity: Ensuring each PR addresses a single purpose, such as refactoring, implementing a new feature, or adding tests and etc. Focused changes are easier to review, test, and release. This make reviews faster to review and approve.
-- Good Test Coverage: Adding or updating tests is key to keeping the codebase stable and future-proof.
+- Author Understanding: Code is cheap now, AI writes it and makes the tests pass, and that's not a problem, it's the process working as intended. What matters is that whoever opens the PR can explain what the code does and why. If you can't answer a question about your own PR, it's not ready.
+- Evidence It Runs: Green CI is not proof. Infrastructure and test suites behave unpredictably often enough that passing checks alone don't earn trust. Show the code actually running, logs, output, a screenshot, whatever proves it works beyond the pipeline saying so.
+- Simplicity: Each PR still addresses a single purpose. Focused changes are easier to review and release, whether a human or an agent wrote them
+- Test Coverage: Tests matter, but as a floor, not the finish line. Passing tests plus a human who understands the change is the actual bar.
 
 If you not agree, someone else could approve your code.
 
