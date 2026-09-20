@@ -54,6 +54,22 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 
 If you not agree, someone else could approve your code.
 
+### What is wrong with AI It writes the test and the implementation in the same breath, from the same assumptions. So the test agrees with the code.
+
+Concretely, what breaks:
+
+  1. Shared blind spots. Any misunderstanding of the spec, edge case, or requirement gets baked into both the code and the test at the same time, by the same reasoning. The
+     test can't catch what the author didn't think of, because it didn't think of it either.
+  2. Tests verify implementation, not intent. Writing test and code together tends to produce a test that asserts "the code does what the code does" rather than "the code
+     does what it's supposed to do." If you accidentally implement the wrong thing, the test happily confirms the wrong thing.
+  3. No adversarial pressure. A test's value comes partly from someone trying to break the code, or at least approaching it skeptically, asking "what could go wrong here,
+     what did I not handle." Writing both at once removes that friction, since you already believe the code works before the test exists.
+  4. False confidence signal. Green tests look like verification but are actually closer to a tautology. This is dangerous specifically because it looks identical to real
+     coverage from the outside, so it erodes trust in the test suite once the gap is discovered.
+  5. Refactoring loses its safety net. The whole point of tests is to let you change implementation while keeping behavior fixed. If the test was derived from the
+     implementation rather than the spec, it will often break on any refactor, correct or not, or worse, pass through actual regressions that happen to preserve the same
+     accidental shape.
+
 [Styleguide](https://google.github.io/styleguide/go/) and [effective-go](https://go.dev/doc/effective_go) that I use for Go projects
 
 [PR strategies I usually follow](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
