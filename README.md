@@ -54,6 +54,10 @@ My primary interests lie in Software Engineering as well as SRE, SecDevOps and S
 
 If you not agree, someone else could approve your code.
 
+[Styleguide](https://google.github.io/styleguide/go/) and [effective-go](https://go.dev/doc/effective_go) that I use for Go projects
+
+[PR strategies I usually follow](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
+
 ### What is wrong with AI It writes the test and the implementation in the same breath, from the same assumptions. So the test agrees with the code.
 
 Concretely, what breaks:
@@ -69,10 +73,6 @@ Concretely, what breaks:
   5. Refactoring loses its safety net. The whole point of tests is to let you change implementation while keeping behavior fixed. If the test was derived from the
      implementation rather than the spec, it will often break on any refactor, correct or not, or worse, pass through actual regressions that happen to preserve the same
      accidental shape.
-
-[Styleguide](https://google.github.io/styleguide/go/) and [effective-go](https://go.dev/doc/effective_go) that I use for Go projects
-
-[PR strategies I usually follow](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
 
 **Recent Posts:**
 
