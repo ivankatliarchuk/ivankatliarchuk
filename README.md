@@ -1,4 +1,4 @@
-### Hi there 👋, [Ivan][website] is here
+### Hi there 👋, Ivan is here
 
 <p>
 My primary interests lie in Software Engineering as well as SRE, SecDevOps and SDLC
